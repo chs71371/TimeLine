@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12941, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - {fileID: 11400000, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+  m_Vals:
+  - timeInFrames: 0
+    timeAreaShownRange: {x: 0.8054715, y: 3.466896}
+    m_Keys:
+    - {fileID: 114326906938667512, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114892299513995244, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114009040169726018, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114335545848743216, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114890896178935582, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114375670506373158, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114863152694835504, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114372958152117918, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114480801482057582, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114635297576387090, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114258707777244688, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    - {fileID: 114490006636934766, guid: ff9242fee5e5527469a3efb8beafcc9a, type: 2}
+    m_Vals:
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 0
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 0
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
+    - collapsed: 1
+      showInlineCurves: 0
